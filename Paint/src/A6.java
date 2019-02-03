@@ -14,7 +14,7 @@ public class A6 extends MouseAdapter implements ActionListener
 	MyButton6 b7;
 	Button b12,b13;
 	JFrame f;
-	JFrame b;
+	
 	public static String str="";
 	JPanel p1,p3,p4;
 	static ArrayList a1;
